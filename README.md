@@ -3,14 +3,14 @@
 - 👀 I’m interested in **Software Quality Assurance** & **Machine Learning** research. I have been working with international clients, startups and government authorities in building different web & mobile applications. I have experience in e-commerce, healthcare, tourism, and E-learning sectors.
 Given my short-term yet rich experience and agility, in addition to being certified by **ISTQB**, I can help IT companies release their products with confidence and with the highest quality.
 
-Software Testing Certificates:
+**Software Testing Certificates**
 - ISTQB Foundation Level (CTFL)
 - ISTQB Agile Tester (CTFL-AT)
 - ISTQB Mobile Application Tester (CTFL-MAT)
 CertiProf: Scrum Foundation Professional Certificate (SFPC)
 
-IEEE Publications:
-A Comparative Study of Different Face Shape Classification Techniques
+**IEEE Publications**
+- A Comparative Study of Different Face Shape Classification Techniques
 
 
 - 📫 You can always reach me on **LinkedIn**, I am more than happy to connect:
