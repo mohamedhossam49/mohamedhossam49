@@ -1,6 +1,6 @@
-- Hi 👋, I’m **Mohamed Hossam Saif**
+Hi 👋, I’m **Mohamed Hossam Saif**
 
-- 👀 I’m interested in **Software Quality Assurance** & **Machine Learning** research. I have been working with international clients, startups and government authorities in building different web & mobile applications. I have experience in e-commerce, healthcare, tourism, and E-learning sectors.
+I’m interested in **Software Quality Assurance** & **Machine Learning** research. I have been working with international clients, startups and government authorities in building different web & mobile applications. I have experience in e-commerce, healthcare, tourism, and E-learning sectors.
 Given my short-term yet rich experience and agility, in addition to being certified by **ISTQB**, I can help IT companies release their products with confidence and with the highest quality.
 
 **Software Testing Certificates**
@@ -13,7 +13,7 @@ CertiProf: Scrum Foundation Professional Certificate (SFPC)
 - A Comparative Study of Different Face Shape Classification Techniques
 
 
-- 📫 You can always reach me on **LinkedIn**, I am more than happy to connect:
+📫 You can always reach me on **LinkedIn**, I am more than happy to connect:
       https://www.linkedin.com/in/mohamed-hossam-aabbb0183/
 
 <!---
