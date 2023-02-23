@@ -14,7 +14,7 @@ CertiProf: Scrum Foundation Professional Certificate (SFPC)
 
 
 📫 You can always reach me on **LinkedIn**, I am more than happy to connect:
-      https://www.linkedin.com/in/mohamed-hossam-aabbb0183/
+https://www.linkedin.com/in/mohamed-h-aabbb0183
 
 <!---
 mohamedhossam49/mohamedhossam49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
